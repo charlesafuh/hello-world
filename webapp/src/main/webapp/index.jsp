@@ -32,6 +32,7 @@ form action="action_page.php">
   </div>
 
    <h1> Thank you for joining our DevOps course </h1>
+   <h1> You have lifetime access to the course! </h1>
 
 
 </form>
