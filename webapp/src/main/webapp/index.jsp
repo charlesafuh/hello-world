@@ -31,7 +31,7 @@ form action="action_page.php">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you for joining our DevOps course </h1>
 
 
 </form>
